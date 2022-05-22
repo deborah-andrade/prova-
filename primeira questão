@@ -1,4 +1,6 @@
-mesim =[1, 3, 5, 7, 8, 10, 12]
+#Faça um programa em Python que irá ler uma data através de três valores inteiros.
+
+mesim =[1, 3, 5, 7, 8, 10, 12] #mes impares e pares
 mespa = [4, 6, 9,11]
 bi = 2020
 d = int(input('Dia: '))
